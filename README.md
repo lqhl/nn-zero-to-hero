@@ -1,3 +1,12 @@
+## Neural Networks: Zero to Hero 中文笔记
+
+> 本仓库是 Andrej Karpathy 经典课程 [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) 的中文学习笔记合集。
+> 
+> 📚 **下载 EPUB 电子书**：[nn-zero-to-hero-notes.epub](nn-zero-to-hero-notes.epub)
+> 
+> 笔记涵盖全部 8 讲内容，包括 micrograd 自动微分引擎、语言模型基础、WaveNet、GPT 系列等核心知识点，配合详细的代码解读和可视化图表，适合深度学习初学者系统学习。
+> 
+> ---
 
 ## Neural Networks: Zero to Hero
 
